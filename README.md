@@ -1,4 +1,4 @@
-FACE RECOGNITION BASED ATTENDANCE SYSTEM
+FACE RECOGNITION BASED ATTENDANCE SYSTEM,
 With a variety of features, this project's complete face recognition-based attendance system tracks attendance effectively. There are two modules in the system:
 
 Module 1: Welcome Page[LOGIN]
